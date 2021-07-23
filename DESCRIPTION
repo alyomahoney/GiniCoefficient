@@ -1,6 +1,6 @@
 Package: GiniCoefficient
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Calculate Gini Coefficient using Traezium Rule
 Version: 0.1.0
 Author: Aly O'Mahoney
 Maintainer: The package maintainer <yourself@somewhere.net>
