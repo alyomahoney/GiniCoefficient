@@ -2,7 +2,7 @@
 
 gini_coeff_trap <- function(score_data) {
 
-  names(score_data <- c("score", "bad"))
+  names(score_data) <- c("score", "bad")
 
   tot_area <- score_data %>%
     mutate(good = 1-bad) %>%
